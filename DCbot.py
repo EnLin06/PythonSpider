@@ -107,5 +107,5 @@ async def search(ctx, id):
     else:
         await ctx.send("無效的輸入或沒有錄取紀錄 ! ")
 
-bot.run("MTM0MzQyNDc1NDQyNTc5NDY2MA.GV8W1Y.brAQHm66dFaD5URaIuBS-zYLeyGlxwMgJIOX1c")
+bot.run("TOKEN")
 
