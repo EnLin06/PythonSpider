@@ -11,3 +11,5 @@ get_admission.py --> 爬取去年(113)錄取狀況
 get_data.py --> 爬取今年(114)一階通過狀況
 
 data_set.py --> 資料整理 & 寫入
+
+json資料庫放在json資料夾底下
