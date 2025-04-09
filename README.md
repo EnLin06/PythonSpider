@@ -1,3 +1,6 @@
+# PythonSpider
+這是一個爬取台灣大薛申請入學第一階段的程式，和能夠利用爬取資料查榜的DiscordBot
+
 檔案介紹 :
 
 DCbot.py --> 能夠運行的查榜DiscordBot，需要資料庫(可用其他程式爬取)
